@@ -1,0 +1,7 @@
+OTNetwork
+double a(?)
+double b(?)
+double d(?,?)
+int64 iter()
+double g(?,?) -> output
+double cost() -> output
